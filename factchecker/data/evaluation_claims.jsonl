@@ -1,0 +1,21 @@
+{"claim":"Exercise can improve mental health.","expected_verdict":"Supported","category":"health"}
+{"claim":"Vaccines can help prevent infectious diseases.","expected_verdict":"Supported","category":"health"}
+{"claim":"Climate change is influenced by human greenhouse gas emissions.","expected_verdict":"Supported","category":"environment"}
+{"claim":"Solar panels can generate electricity on cloudy days.","expected_verdict":"Supported","category":"environment"}
+{"claim":"Python is commonly used for data science and machine learning.","expected_verdict":"Supported","category":"technology"}
+{"claim":"The Earth is flat.","expected_verdict":"Contradicted","category":"science"}
+{"claim":"5G networks cause COVID-19.","expected_verdict":"Contradicted","category":"technology"}
+{"claim":"The Great Wall of China is visible from the Moon with the naked eye.","expected_verdict":"Contradicted","category":"general"}
+{"claim":"A human can safely survive without water for one month.","expected_verdict":"Contradicted","category":"health"}
+{"claim":"Humans only use 10 percent of their brains.","expected_verdict":"Contradicted","category":"science"}
+{"claim":"Electric cars produce zero emissions.","expected_verdict":"Mixed","category":"environment"}
+{"claim":"Coffee is always bad for health.","expected_verdict":"Mixed","category":"health"}
+{"claim":"Drinking 8 glasses of water daily is necessary for everyone.","expected_verdict":"Mixed","category":"health"}
+{"claim":"AI will completely replace all programmers.","expected_verdict":"Mixed","category":"technology"}
+{"claim":"Organic food is always healthier than conventionally grown food.","expected_verdict":"Mixed","category":"health"}
+{"claim":"The new cafeteria policy at my university improved student happiness last week.","expected_verdict":"Insufficient Evidence","category":"general"}
+{"claim":"My neighbor's private startup became profitable yesterday.","expected_verdict":"Insufficient Evidence","category":"general"}
+{"claim":"A small unnamed village passed the world's first homework ban this morning.","expected_verdict":"Insufficient Evidence","category":"general"}
+{"claim":"This exact laptop on my desk was manufactured on a Tuesday.","expected_verdict":"Insufficient Evidence","category":"technology"}
+{"claim":"The local chess club in an unknown town doubled its membership overnight.","expected_verdict":"Insufficient Evidence","category":"general"}
+

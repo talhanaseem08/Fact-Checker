@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.log
+.env
+.cache/
+.streamlit/secrets.toml
+.DS_Store
+results/evaluation_results.csv
+huggingface_cache/
+models/
+*.bin
+*.safetensors

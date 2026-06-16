@@ -1,0 +1,14 @@
+streamlit
+torch
+transformers
+accelerate
+sentencepiece
+protobuf
+duckduckgo-search
+ddgs
+requests
+beautifulsoup4
+trafilatura
+pandas
+numpy
+scikit-learn

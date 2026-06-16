@@ -1,0 +1,15 @@
+from pathlib import Path
+
+BASE_MODEL_NAME = "Qwen/Qwen2.5-0.5B-Instruct"
+MAX_SEARCH_RESULTS = 6
+MAX_PAGES_TO_READ = 4
+MAX_CHARS_PER_PAGE = 4000
+MAX_EVIDENCE_SENTENCES = 10
+MAX_NEW_TOKENS = 350
+TEMPERATURE = 0.2
+TOP_P = 0.9
+REQUEST_TIMEOUT = 10
+APP_TITLE = "Fact-Checking Chatbot"
+RESULTS_DIR = Path("results")
+DATA_DIR = Path("data")
+
